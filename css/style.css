@@ -1,0 +1,25 @@
+body {
+    background-color: #e8f1f6;
+    font-family: arial
+}
+.card {width:auto;
+       margin: 30px auto}
+div {padding-left: 30px;
+   
+    background-color: #4d646e;
+     color:#e8f1f6;
+}
+img {
+    padding: 30px;  
+}
+.link { 
+    color:#8abfbb;
+    text-decoration: none
+}
+.link:hover {
+    color:#70a39f
+}
+.link:active {
+    color:#164e6c
+}
+div2 {color:#4d646e}
